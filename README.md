@@ -1,2 +1,0 @@
-# Chess-Information
-CS Assignment
